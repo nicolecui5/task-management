@@ -46,11 +46,13 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
   2. Quote#: number, 
   3. Due Date: date. 
   4. Status should be a drop down with Close and Open options. 
-- Create Service and write logic into service 
-- buttons 
-  1. View button: show all the information in a popup window like below one 
-  2. Edit button: make the table row editable 
-  3. Save button: save the updated information 
+
+- [ ] Create Service and write logic into service
+- [x] buttons 
+
+1. View button: show all the information in a popup window like below one 
+2. Edit button: make the table row editable 
+3. Save button: save the updated information 
 
 
 
